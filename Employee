@@ -1,0 +1,5 @@
+frontend - angular
+backend - springboot
+
+first run the aplication.java class in springboot. and open the frontend and type ng serve in cmd and run it. 
+finally serach localhost:4200 in browser. 
